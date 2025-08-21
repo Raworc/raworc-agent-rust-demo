@@ -1,0 +1,5 @@
+{
+  "runtime": "rust",
+  "handler": "lib.process_message_sync",
+  "description": "Simple Pirate-speaking agent powered by Claude LLM"
+}
